@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/xXOsielXx/product-preview-card-component
-- Live Site URL: https://xxosielxx.github.io/product-preview-card-component
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-product-review-card-component-page-with-html-and-css-y1V4zqd9m6
+- Live Site URL: https://xxosielxx.github.io/product-preview-card-component-challenge
 
 ## My process
 
